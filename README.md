@@ -1,6 +1,6 @@
 # Garden House
 
-## This is a modelling of an extension to the garden house.
+## This is a modelling of an extension to the garden house
 
 ### Original
 
